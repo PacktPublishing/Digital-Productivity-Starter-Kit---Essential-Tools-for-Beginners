@@ -1,0 +1,207 @@
+Country,Year-Month,InvoiceNo
+Sweden,2011-01,1
+Sweden,2011-02,2
+Sweden,2011-04,2
+Sweden,2011-05,1
+Sweden,2011-06,2
+Sweden,2011-08,2
+Sweden,2011-09,1
+Israel,2011-01,1
+Israel,2011-04,2
+Israel,2011-09,1
+Netherlands,2011-01,3
+Netherlands,2011-02,3
+Netherlands,2011-03,1
+Netherlands,2011-05,3
+Netherlands,2011-06,4
+Netherlands,2011-07,3
+Netherlands,2011-08,4
+Netherlands,2011-09,5
+Germany,2011-10,12
+Germany,2011-11,18
+Germany,2011-12,15
+Spain,2011-10,3
+Spain,2011-11,4
+Channel Islands,2011-01,1
+Channel Islands,2011-02,1
+Channel Islands,2011-05,4
+Channel Islands,2011-06,2
+Channel Islands,2011-09,1
+Belgium,2011-10,3
+Belgium,2011-11,3
+Belgium,2011-12,4
+USA,2011-10,1
+Greece,2011-04,1
+Greece,2011-06,1
+Greece,2011-08,1
+Austria,2011-01,1
+Austria,2011-02,1
+Austria,2011-03,1
+Austria,2011-06,1
+Austria,2011-08,2
+Canada,2011-04,1
+United Kingdom,2011-10,564
+United Kingdom,2011-11,613
+United Kingdom,2011-12,440
+Portugal,2011-11,2
+Portugal,2011-12,2
+Italy,2011-10,1
+France,2011-10,14
+France,2011-11,17
+France,2011-12,15
+Switzerland,2011-10,2
+Switzerland,2011-11,2
+Switzerland,2011-12,1
+European Community,2011-05,1
+European Community,2011-06,1
+Cyprus,2011-10,1
+Cyprus,2011-12,1
+Norway,2011-10,1
+Norway,2011-11,1
+Norway,2011-12,3
+United Arab Emirates,2011-01,1
+Finland,2011-11,2
+Finland,2011-12,2
+Sweden,2011-10,1
+Sweden,2011-11,2
+Sweden,2011-12,1
+Australia,2011-01,3
+Australia,2011-02,1
+Australia,2011-03,2
+Australia,2011-04,1
+Australia,2011-05,3
+Australia,2011-06,4
+Australia,2011-07,3
+Australia,2011-08,1
+Australia,2011-09,1
+EIRE,2011-01,13
+EIRE,2011-02,2
+EIRE,2011-03,3
+EIRE,2011-04,11
+EIRE,2011-05,8
+EIRE,2011-06,6
+EIRE,2011-07,15
+EIRE,2011-08,7
+EIRE,2011-09,4
+Israel,2011-10,1
+Unspecified,2011-02,1
+Unspecified,2011-08,1
+Netherlands,2011-10,3
+Netherlands,2011-11,3
+Netherlands,2011-12,4
+Japan,2011-02,1
+Japan,2011-04,2
+Japan,2011-05,1
+Japan,2011-07,1
+Japan,2011-09,1
+Poland,2011-02,1
+Poland,2011-03,2
+Poland,2011-04,2
+Poland,2011-05,4
+Poland,2011-08,1
+Czech Republic,2011-07,1
+Channel Islands,2011-10,1
+Denmark,2011-05,1
+Denmark,2011-07,1
+Denmark,2011-09,1
+Greece,2011-11,1
+Austria,2011-12,1
+Canada,2011-11,1
+Hong Kong,2011-12,1
+Malta,2011-08,1
+Iceland,2011-02,1
+Iceland,2011-07,2
+Iceland,2011-09,1
+Bahrain,2011-09,1
+Germany,2011-01,9
+Germany,2011-02,9
+Germany,2011-03,9
+Germany,2011-04,19
+Germany,2011-05,12
+Germany,2011-06,17
+Germany,2011-07,23
+Germany,2011-08,12
+Germany,2011-09,10
+Spain,2011-01,1
+Spain,2011-03,3
+Spain,2011-04,7
+Spain,2011-05,1
+Spain,2011-06,5
+Spain,2011-07,6
+Spain,2011-08,2
+Spain,2011-09,2
+Australia,2011-10,1
+Australia,2011-11,1
+Australia,2011-12,2
+Belgium,2011-01,2
+Belgium,2011-02,3
+Belgium,2011-03,2
+Belgium,2011-04,4
+Belgium,2011-05,3
+Belgium,2011-06,4
+Belgium,2011-07,4
+Belgium,2011-08,3
+Belgium,2011-09,4
+Singapore,2011-04,2
+Singapore,2011-05,1
+EIRE,2011-10,12
+EIRE,2011-11,12
+EIRE,2011-12,7
+USA,2011-02,1
+USA,2011-05,1
+United Kingdom,2011-01,575
+United Kingdom,2011-02,487
+United Kingdom,2011-03,446
+United Kingdom,2011-04,613
+United Kingdom,2011-05,617
+United Kingdom,2011-06,683
+United Kingdom,2011-07,677
+United Kingdom,2011-08,682
+United Kingdom,2011-09,539
+Unspecified,2011-10,1
+Unspecified,2011-11,1
+Portugal,2011-02,2
+Portugal,2011-03,1
+Portugal,2011-05,1
+Portugal,2011-06,3
+Portugal,2011-07,3
+Portugal,2011-08,3
+Portugal,2011-09,2
+Italy,2011-01,1
+Italy,2011-02,1
+Italy,2011-04,2
+Italy,2011-05,1
+Italy,2011-06,1
+Italy,2011-07,2
+Italy,2011-09,1
+France,2011-01,12
+France,2011-02,10
+France,2011-03,13
+France,2011-04,14
+France,2011-05,18
+France,2011-06,9
+France,2011-07,11
+France,2011-08,14
+France,2011-09,12
+Switzerland,2011-01,1
+Switzerland,2011-02,1
+Switzerland,2011-04,2
+Switzerland,2011-05,2
+Switzerland,2011-06,2
+Switzerland,2011-08,2
+Switzerland,2011-09,2
+Cyprus,2011-03,1
+Cyprus,2011-04,1
+Cyprus,2011-07,3
+Denmark,2011-10,1
+Denmark,2011-11,2
+Norway,2011-01,3
+Norway,2011-02,1
+Norway,2011-03,1
+Norway,2011-05,1
+Norway,2011-06,1
+Norway,2011-09,3
+Finland,2011-01,4
+Finland,2011-02,3
+Finland,2011-04,4
+Finland,2011-05,2
